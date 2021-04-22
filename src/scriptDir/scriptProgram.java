@@ -1,3 +1,9 @@
+/**
+ * Author: Ku Yi Sien
+ * Script Program for SmartPeep Internship
+ * IDE: Ecliplse IDE
+ * Language: Java
+ */
 package scriptDir;
 
 import java.util.*;
