@@ -1,18 +1,12 @@
-# Queen's Chess
-**Authors**: Neel Sankaran, AJ Smyth, Jordan Queen, Oliver Amjadi, Ian Ku, Sandeep Baddam 
+# scriptProject
+## Name: Ku Yi Sien
+### Please follow the instruction steps below to run the program
 
-**Date**: 4/17/22 
-
-**General instructions**: Please look at install file to learn how to install. 
-#### compile the source files and create our executable
+### compile the scriptProgram.java file
 ```
-make
+javac scriptProgram.java
 ```
-
-#### run the executable
+### run the scriptProgram.java file, "directory" argument can be any folder
 ```
-cd bin
-./chess
+java scriptProgram.java "directory"
 ```
-
-*Copyrighted by Queen's Chess, Please take a look at copyright file*
