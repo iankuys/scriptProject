@@ -1,13 +1,15 @@
-# scriptProject
-### Name: Ku Yi Sien
-### Please follow the instruction steps below to run the program
+**Authors**: Neel Sankaran, AJ Smyth, Jordan Queen, Oliver Amjadi, Ian Ku, Sandeep Baddam 
+**Date**: 4/17/22 
+**General instructions**: Please look at install file to learn how to install. 
+#### compile the source files and create our executable
+```
+make
+```
 
-### compile the scriptProgram.java file
+#### run the executable
 ```
-javac scriptProgram.java
+cd bin
+./chess
 ```
 
-### run the scriptProgram.java file, "directory" argument can be any folder
-```
-java scriptProgram.java "directory"
-```
+*Copyrighted by Queen's Chess, Please take a look at copyright file*
